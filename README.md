@@ -11,7 +11,7 @@ This project is currently just a sandbox for me to learn about web development
 ## Contributing
 
 1. Create issue
-2. Create branch with name <username>/<issue number>[-<optional name>]
+2. Create branch with name \<username\>/\<issue number\>\[-\<optional name\>\]
 3. Commit changes to branch
 4. Create PR
 
